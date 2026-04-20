@@ -51,7 +51,7 @@ To ensure data integrity, the following steps were taken:
 | [Built with](#Built-with)							   		|
 
 ## Dataset Description: 
-This data set contains information about 10,000 movies extracted from [TMDB](https://www.themoviedb.org/). The dataset contains movies from 1960 to 2015. Including user ratings and revenue. Original data from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+This data set contains information about 10,000 movies extracted from [TMDB](https://www.themoviedb.org/). The dataset contains movies from 1960 to 2023. Including user ratings and revenue. Original data from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
 ## Columns Descreption:
 - `id, imdb_id`: unique id or imdb id for each movie on TMDB
